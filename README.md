@@ -1,7 +1,3 @@
-# Swiggy-Sales-Analysis-Dashboard
-Interactive Excel dashboard for analyzing Swiggy sales performance.
-# Swiggy Sales Analysis Dashboard
-
 ## Project Overview
 
 This project is an interactive Excel dashboard developed to analyze Swiggy sales performance.
